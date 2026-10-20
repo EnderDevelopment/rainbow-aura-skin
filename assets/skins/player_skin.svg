@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" shape-rendering="crispEdges">
+  <!-- Light tan skin -->
+  <rect x="16" y="16" width="32" height="32" fill="#F5D7A1" />
+  <!-- Half sculk infected -->
+  <rect x="16" y="16" width="16" height="32" fill="#5A3A29" />
+  <!-- Ash blonde hair -->
+  <rect x="16" y="0" width="32" height="16" fill="#E6D5B8" />
+  <!-- Cyan eyes -->
+  <rect x="24" y="24" width="4" height="4" fill="#00FFFF" />
+  <rect x="36" y="24" width="4" height="4" fill="#00FFFF" />
+  <!-- Rainbow aura hoodie -->
+  <rect x="16" y="48" width="32" height="16" fill="url(#rainbowGradient)" />
+  <!-- Black jeans -->
+  <rect x="20" y="48" width="28" height="16" fill="#000000" />
+  <!-- Gradient for rainbow aura -->
+  <defs>
+    <linearGradient id="rainbowGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF0000" />
+      <stop offset="16.67%" stop-color="#FF7F00" />
+      <stop offset="33.33%" stop-color="#FFFF00" />
+      <stop offset="50%" stop-color="#00FF00" />
+      <stop offset="66.67%" stop-color="#0000FF" />
+      <stop offset="83.33%" stop-color="#4B0082" />
+      <stop offset="100%" stop-color="#9400D3" />
+    </linearGradient>
+  </defs>
+</svg>
